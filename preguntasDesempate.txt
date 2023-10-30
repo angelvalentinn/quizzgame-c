@@ -1,0 +1,4 @@
+Cuanto es 2 + 2, 4
+Cuanto es 5 - 2, 3
+Cuanto es 4 / 2, 2
+Cuanto es 20 + 7,27

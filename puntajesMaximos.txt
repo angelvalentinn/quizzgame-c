@@ -1,0 +1,5 @@
+lupe,432,8
+angel,321,8
+maria,678,4
+juana,697890,1
+salva,78906,0

@@ -1,0 +1,10 @@
+Cuantos dedos tiene una persona,1,001
+Donde nacio Messi,3,002
+Cuantos mundiales tiene Argentina,3,003
+De que color es el cielo,1,004
+Que marca es La camioneta raptor,3,006
+Que comida es mala en grasas saturadas,2,007
+Cuantas estaciones hay en el anio,3,008
+Cuantos meses tiene el anio,2,009
+Cual es la capital de España,3,010
+Que ser vivo produce miel,1,011

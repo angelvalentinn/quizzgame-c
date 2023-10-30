@@ -1,0 +1,10 @@
+cinco,dos,siete,ocho,001,cinco
+uruguay,argentina,espania,paraguay,002,argentina
+cinco,dos,tres,cuatro,003,tres
+amarillo,verde,celeste,rojo,004,celeste
+ford,toyota,wolswagen,fiat,006,ford
+hamburguesa,palta,fideos,lentejas,007,hamburguesa
+dos,cuatro,tres,cinco,008,cuatro
+trece,once,doce,diez,009,doce
+amsterdam,paris,barcelona,madrid,010,madrid
+abeja,mosca,carpincho,abejorro,011,abeja

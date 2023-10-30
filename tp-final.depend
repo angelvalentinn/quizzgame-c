@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1698188380 source:c:\users\usuario\desktop\tp-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugadores.h"
+	"preguntas.h"
+	"puntaje.h"
+	"iniciarJuego.h"
+
+1698085509 c:\users\usuario\desktop\tp-final\jugadores.h
+
+1698074318 source:c:\users\usuario\desktop\tp-final\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugadores.h"
+
+1698084805 source:c:\users\usuario\desktop\tp-final\preguntas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"preguntas.h"
+
+1697823427 c:\users\usuario\desktop\tp-final\preguntas.h
+
+1698705040 c:\users\usuario\desktop\tp-final\puntaje.h
+	"jugadores.h"
+
+1698705116 source:c:\users\usuario\desktop\tp-final\puntaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugadores.h"
+	"puntaje.h"
+
+1698021312 c:\users\usuario\desktop\tp-final\iniciarjuego.h
+	"jugadores.h"
+	"preguntas.h"
+	"puntaje.h"
+
+1698705034 source:c:\users\usuario\desktop\tp-final\iniciarjuego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"puntaje.h"
+	"preguntas.h"
+	"iniciarJuego.h"
+
